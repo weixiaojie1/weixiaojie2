@@ -24,3 +24,4 @@ public class Greeter {
     System.out.println(greeter.sayHello());
   }
 }
+int ab = 0 ;
